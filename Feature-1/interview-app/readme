@@ -1,0 +1,6 @@
+-- Added test endpoint
+http://localhost:8080/interview/test
+
+-- Added swagger
+http://localhost:8080/interview/swagger-ui/index.html
+http://localhost:8080/interview/v2/api-docs
